@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shuai0711, a student @UC Santa Barbara Stats Department
+- 👋 Hi, I’m @Shuai0711, a master's student @Columbia Business School
 - 👀 I’m interested in LEGO, snowboarding, soccer
 - 👔 I want to be a quant trader / data scientist
-- 📫 How to reach me shuai_yuan@ucsb.edu
+- 📫 How to reach me syuan27@gsb.columbia.edu
